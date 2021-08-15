@@ -30,7 +30,6 @@
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-F29111?style=flat-square&logo=mysql&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-119149?style=flat-square&logo=mongodb)
-  ![SQLite](https://img.shields.io/badge/-SQLite-28739e?style=flat-square&logo=sqlite)
 - ☁ &nbsp;
   ![Heroku](https://img.shields.io/badge/-Heroku-6324e0?style=flat-square&logo=Heroku)
   ![XAMPP](https://img.shields.io/badge/-XAMPP-fb7a24?style=flat-square&logo=XAMPP&logoColor=white) 
