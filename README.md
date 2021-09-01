@@ -30,7 +30,7 @@
   ![MySQL](https://img.shields.io/badge/-MySQL-F29111?style=flat-square&logo=mysql&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-119149?style=flat-square&logo=mongodb)
 - ☁ &nbsp;
-- ![Heroku](https://img.shields.io/badge/-Heroku-6324e0?style=flat-square&logo=Heroku)
+  ![Heroku](https://img.shields.io/badge/-Heroku-6324e0?style=flat-square&logo=Heroku)
   ![XAMPP](https://img.shields.io/badge/-XAMPP-fb7a24?style=flat-square&logo=XAMPP&logoColor=white) 
 - ⚙️ &nbsp;
   ![Git](http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF)
